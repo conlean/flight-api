@@ -30,7 +30,7 @@ The app defines following CRUD APIs.
 
     GET localhost:8080/api/flight/   (All items)
     
-    POST localhost:8080/api/flight/ (create new todo)
+    POST localhost:8080/api/flight/ (create new flight)
     
     
     GET localhost:8080/api/todos/search? (Get flight by Origin, Destination and Weight)
